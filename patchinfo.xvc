@@ -1637,7 +1637,7 @@ DataTable\Character.edf 0ddb056038036f98972ad976ead3fbe09a95f987
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\Csua.txt 4da19826da09b2c9fc7ac4c8311b26faf2fd5fe8
 DataTable\en-gb\discord.ini 08efa485ca79c37207d8cec94a492deaeaf1c755
-DataTable\en-gb\HVNLanguage.ini ad8720a3e66c6b5142b53335d699de12dd2ce024
+DataTable\en-gb\HVNLanguage.ini 8d62d09e55df84f53607eb41847927fd3ada39ae
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf a61a5ebf7692cd10ffe8c67fd3f6e8916faff24e
@@ -1709,7 +1709,7 @@ Map\Platform01\Sky\Platform01Sky.mtf b4f9d3404e66f05fb260ca73ff0a0b6f0c61fdc7
 Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
-RF_Online.bin 7521eb7dcb25d688558d55eeddbe141b3a783606
+RF_Online.bin dac5060788ec6fdc25eee95ee6c1ae0a40c800b5
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
@@ -1725,6 +1725,7 @@ SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr 73e6d2fe11542e24bc27d4ac935ff53f6099fca7
 SpriteImage\common\item.spr 1103a2e5b623fbb1cf4ba64c1c6a5c630d577a1e
 SpriteImage\common\Map\Dungeon03.spr c58c4f2883949c4170f6972cf6b517f49509dffb
+SpriteImage\common\shop.spr 99501b336252185b06c08de29d716e88d9157b97
 SpriteImage\en-gb\common.spr 2931a119830da5d3f7bce91e887f655329395ede
 SpriteImage\launcher.png 7dbb9918342bdf7abecd2eb31fcfe77067e34f65
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
