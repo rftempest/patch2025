@@ -24,7 +24,7 @@ DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\Csua.txt 4da19826da09b2c9fc7ac4c8311b26faf2fd5fe8
 DataTable\en-gb\discord.ini 35f76535e95a9ec7dce7f95aeb96eafc3c3da347
 DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
-DataTable\en-gb\HVNLanguage.ini 64465ea9ccc62f9da5ad206182cebda75b9f1e4f
+DataTable\en-gb\HVNLanguage.ini d8eeda5d8b8c27871d463b291b3dfebe892e286a
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 0086704de9731151bda2b137e0a5650941c3fe8a
 DataTable\en-gb\KeyMap_NKM.dat 29e3153b35a39cbaac01f55bebcd01ba761de4cc
@@ -95,7 +95,7 @@ Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
 Map\resources\resources_dummy.spt 3804058c49f289a979f9f0aee97e01d6f329b8ec
 Map\Sette\Sette_dummy.spt a8f172027fc2dca0af89586fbb8c72d2775d3e1f
 Map\Transport01\Transport01_dummy.spt a8c33019bcc179504533e4ee986bbea782096ad1
-RF_Online.bin 0e331562333718a3fb416f081a15b9e41b7a8c5d
+RF_Online.bin 245b6889a870b2bf3ad2a0bfef3f6441e9302d60
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
@@ -111,6 +111,7 @@ SpriteImage\common\bossschedule.spr b408f714ce7dd3966364a0dfee8b28ecdc86d951
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr 02ef7b5ab83ead02e9d2b466f630aec751effef0
 SpriteImage\common\item.spr c1b9f2b40f9ab8dab42a41e6f6070c3f5f468f1f
+SpriteImage\common\revive.spr e2e38e2a81dfa7fc2accd7baa89219d64bbc0ea0
 SpriteImage\common\shop.spr 99501b336252185b06c08de29d716e88d9157b97
 SpriteImage\common\titlemanager.spr 2362d3af93876cc145422cbcbd7915649039f0a6
 SpriteImage\en-gb\common.spr 3f43a2b4ebf5a13874c1f4de290ade0fba6377f6
