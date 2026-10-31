@@ -40,7 +40,7 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf a84f183155668f16ccf3cff9f46cce4ebe81cace
 DataTable\en-gb\NDSkillForce.edf 6115f6c1732e4c8da5655738ef4ed89714e54beb
-DataTable\en-gb\NDStore.edf 576a8651f8b1fb78dc8746908e8bafd791972303
+DataTable\en-gb\NDStore.edf 07cfcacf82e34f55d7bad635bb5dea23cc378231
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\en-gb\titlemanager.ini fbdc5a7b4f5ce353f057cdfe675f462e7550f41e
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
@@ -58,7 +58,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf 4646f492d844d580ad77749d817f571a46cd2e83
 DataTable\Resource.edf 51fbc155e6f8eb66b3f5b17c29e5bf3e31f8edb2
 DataTable\SkillForce.edf 3d819937647efb13270b3580a347db7a9cf1bd63
-DataTable\Store.edf bb31b0b793554d6f1ff745a02e46207776a117a3
+DataTable\Store.edf 8c59e8c2c7dba38aa536b6b52934899c547981a1
 Map\AccGSD\AccGSD_dummy.spt f66b958c91216560468b60c3d2f3792bc3eb80a7
 Map\AccGSP\AccGSP_dummy.spt 296702f04fc734b33ab52ff83d2e5120b345638e
 Map\BellaGSD\BellaGSD_dummy.spt a0430e5f08b67aab787cf73b561fc786ef4bdf8e
