@@ -19,7 +19,7 @@ Character\Monster\Ani\LUNKER_WARWALK_01_00.ANI e8725e17004d244cb9351f4bb027b2fd7
 Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab60b25611c802e6fc5d740c
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
 Chef\HVNAuraList.txt 89e10d4b9038535123bcfb9c626432bf7243551c
-DataTable\Character.edf 3baf8ffffaf1a70612e07f2b3146c79218e31f86
+DataTable\Character.edf 3b9ea7edff50bf87b9426e3ac79b87dba1425673
 DataTable\CustomAuraEx.ini 26cc18f425c6bc7018035f77d5d0855914e5be63
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
@@ -30,9 +30,9 @@ DataTable\en-gb\HVNLanguage.ini ad4414c59cc4cf8bc782a4ddd907f3a8a57a8906
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 0086704de9731151bda2b137e0a5650941c3fe8a
 DataTable\en-gb\KeyMap_NKM.dat 29e3153b35a39cbaac01f55bebcd01ba761de4cc
-DataTable\en-gb\NDCharacter.edf 57f15153b64efd263b042b54eb18b6a0e8b0a258
+DataTable\en-gb\NDCharacter.edf 4bdf556c211f0822fb407765816895cb7fe84070
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf 3d6090a96b9a7d14382942fdd61ffaa26a5e830b
+DataTable\en-gb\NDItem.edf 0ef8603403a392538181c7ba8082831054e96157
 DataTable\en-gb\NDItemCash.edf 82e5253c3d9f3c5400f694275706b3e729b73dca
 DataTable\en-gb\NDLanguage.edf cbae52b7499a4ff334b2492268c1e18e97a683a7
 DataTable\en-gb\NDMap.edf 9febec86057c76abcfe08536fca8b7272d185cbf
@@ -45,7 +45,7 @@ DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\en-gb\titlemanager.ini fbdc5a7b4f5ce353f057cdfe675f462e7550f41e
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\Item.edf b1844d22585f0c0eb49fdf30defde2ccb35ba02f
+DataTable\Item.edf 2f166eb7910fc4dfb06460b2dfb532697f43d259
 DataTable\ItemCash.edf 5b4eaa183d56a4a8449341486ff783b95b4b385e
 DataTable\ItemCombine.edf 81ab87797daf01d9188db45f4a2db794135f3708
 DataTable\ItemPremium.edf 517a7f66187371c95dfefb13bd49056a6b8ec304
@@ -97,7 +97,7 @@ Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
 Map\resources\resources_dummy.spt 3804058c49f289a979f9f0aee97e01d6f329b8ec
 Map\Sette\Sette_dummy.spt a8f172027fc2dca0af89586fbb8c72d2775d3e1f
 Map\Transport01\Transport01_dummy.spt a8c33019bcc179504533e4ee986bbea782096ad1
-RF_Online.bin c48f4c11762826b79026eab20700ec8eed8dc70d
+RF_Online.bin 168e8717cd1b51c37966a25a0bc9d77865f70688
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
